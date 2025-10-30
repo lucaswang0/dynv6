@@ -23,7 +23,7 @@
 
 1. **下载脚本**
    ```bash
-   git clone https://github.com/yourusername/dynv6-dns-manager.git
+   git clone https://github.com/lucaswang0/dynv6-dns-manager.git
    cd dynv6-dns-manager
 
 2. **安装依赖**
